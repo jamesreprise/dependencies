@@ -29,7 +29,7 @@ alcoholic_jwt = "=4091.0.0"
 async-stripe = { version = "=0.22.2", features = ["runtime-tokio-hyper"] }
 async-trait = "=0.1.59"
 axum = { version = "=0.5.15", features = ["ws"] }
-backoff = { "=0.4.0", features = ["tokio"] }
+backoff = { version = "=0.4.0", features = ["tokio"] }
 chrono = "=0.4.23"
 clap = "=4.0.26"
 crossbeam = "=0.8.2"
