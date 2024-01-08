@@ -26,6 +26,7 @@ artifacts = {
     "com.github.ben-manes.caffeine:caffeine": "2.8.6",
     "com.github.rholder:guava-retrying": "2.0.0",
     "com.google.android:annotations": "4.1.1.4",
+    "com.google.api:gax" : "1.60.1",
     "com.google.api.grpc:proto-google-common-protos" : "2.9.0",
     "com.google.auth:google-auth-library-credentials": "0.22.0",
     "com.google.auth:google-auth-library-oauth2-http" : "0.22.0",
