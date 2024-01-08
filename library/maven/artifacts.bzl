@@ -33,7 +33,7 @@ artifacts = {
     "com.google.auth:google-auth-library-oauth2-http" : "0.26.0",
     "com.google.auto.value:auto-value-annotations" : "1.9",
     "com.google.auto.value:auto-value" : "1.9",
-    "com.google.cloud:google-cloud-secretmanager": "2.24.0",
+    "com.google.cloud:google-cloud-secretmanager": "1.5.2",
     "com.google.code.findbugs:annotations": "3.0.1",
     "com.google.code.findbugs:jsr305": "3.0.2",
     "com.google.code.gson:gson": "2.9.0",
